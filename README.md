@@ -1,7 +1,6 @@
 ## Hi there 👋
-
-<!--
-**olivPepi/olivPepi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Meu nome é Penéllope 🙃
+![](https://media.tenor.com/QxHPuWubhJQAAAAM/awkward-blonde.gif)
 
 Here are some ideas to get you started:
 
